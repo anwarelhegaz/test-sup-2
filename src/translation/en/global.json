@@ -1,0 +1,55 @@
+{
+    "headerTop": {
+        "number": " 00966549941791"
+    },
+    "navBar": {
+        "home": "Home",
+        "suppliers": "Suppliers",
+        "contractors": "Contractors",
+        "jobs": "Jobs",
+        "training": "Training",
+        "engineeringOffices": "Engineering offices",
+        "equipment": "Equipment",
+        "auction": "Auction",
+        "AdministrativeServices": "Administrative services",
+        "search": "Search",
+        
+        "page-Estsla7Arade": "Land reclamation.",
+        "page-Rf3Msa7ee": "Raise Surveyors",
+        "page-A3malMydanya": "Fieldwork (concreting and casting).",
+        "page-7dedTsle7": "Reinforcement steel and harbors.",
+        "page-KhrbaT4teb": "Electrical work (finishing and installation)",
+        "page-SbakaWsrf": "Plumbing and drainage.",
+        "page-ZogagWalmotal": "Glass, aluminum, and PVC.",
+        "page-Kladeng": "Cladding",
+        "page-El3zl": "Insulation (internal and external).",
+        "page-TbredWtkeef": "Cooling and air conditioning lines.",
+        "page-56o6El7rek": "Fire lines.",
+        "page-landscapeWrayy": "Landscape and irrigation.",
+        "page-7mamSba7a": "Swimming pools and water decorations.",
+        "page-Dekorat": "Decorations (interior and exterior).",
+        "page-gibsonBoard": "Suspended ceilings (gypsum board).",
+        "page-DehanatWbla6": "Painting - Tiles - Ceramics - Marble.",
+        "page-T2meenBab": "Security (door and window) installation.",
+        "page-SlamatMoake3": "Site safety and road security.",
+        "page-Mtb5W7mam": "Kitchen and bathroom department."
+    },
+    "welcomeBanner": {
+        "welcomeTitle": "Welcome To Supplier"
+    },
+    "changeWords": {
+        "title": "Supplier is a specialized engineering company that offers various services, including",
+        "word1": "Contractors' data and services.",
+        "word2": "Office data and services.",
+        "word3": "Products for buying and selling.",
+        "word4": "Establishment of partnerships.",
+        "word5": "Employment sector.",
+        "word6": "Administrative services for companies.",
+        "word7": "Data on ongoing and future projects."
+    },
+    "ourServices": {
+        "ourServies": "Our Services"
+    }
+
+
+}

@@ -1,0 +1,58 @@
+.custom-toggler {
+    /* background-color: white; */
+    border-color: white !important;
+    color: white !important;
+    box-shadow: none !important;
+}
+.custom-toggler {
+    transition:  1s ease-in-out;
+    -webkit-transition:  1s ease-in-out;
+    -moz-transition:  1s ease-in-out;
+    -ms-transition:  1s ease-in-out;
+    -o-transition:  1s ease-in-out;
+}
+
+.my-nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 555555;
+}
+.navbar {
+    background-color: transparent !important;
+    position: absolute;
+    left: 0;
+    right: 0;
+    z-index: 555555;
+}
+
+.my-nav ul {
+    margin: 0;
+    padding: 0;
+}
+.my-nav ul li{
+    margin: 0 8px;
+    font-weight: 500;
+}
+.my-nav ul li a {
+    color: #fff;
+}
+.dropdown-menu {
+    background-color: #899481 !important;
+}
+.form-control:focus  {
+    box-shadow: none !important;
+}
+.input-search-nav::placeholder {
+    color: white !important; /* Replace with the desired color */
+    font-weight: 600; /* Replace with the desired font weight */
+}
+
+.input-group {
+    border: 1px solid white;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}

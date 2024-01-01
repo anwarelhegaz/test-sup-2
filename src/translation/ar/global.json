@@ -1,0 +1,54 @@
+{
+    "headerTop": {
+        "number": " 00966549941791"
+    },
+    "navBar": {
+        "home": "الرائيسية",
+        "suppliers": "الموردين",
+        "contractors": "المقاولين",
+        "jobs": "التوظيف",
+        "training": "التدريب",
+        "engineeringOffices": "المكاتب الهندسية",
+        "equipment": "تأجير المعدات والعمالة",
+        "auction": "حراج",
+        "AdministrativeServices": "خدمات ادارية",
+        "search": "بحث",
+        
+        "page-Estsla7Arade": "استصلاح اراضي",
+        "page-Rf3Msa7ee": "رفع مساحي",
+        "page-A3malMydanya": "اعمال ميدانية (صبة و خرصانة)",
+        "page-7dedTsle7": "حديد التسليح والمواني",
+        "page-KhrbaT4teb": "كهرباء (تشطيب و تأسيس)",
+        "page-SbakaWsrf": "سباكة و صرف",
+        "page-ZogagWalmotal": "زجاج والالموتال وال PVC",
+        "page-Kladeng": "كلادينج",
+        "page-El3zl": "العزل (داخلي وخارجي)",
+        "page-TbredWtkeef": "خطوط التبريد والتكيف",
+        "page-56o6El7rek": "خطوط الحريق",
+        "page-landscapeWrayy": "لاند سكيب و ري",
+        "page-7mamSba7a": "حمامات سباحه وديكورات مائيه",
+        "page-Dekorat": "ديكورات (داخلي وخارجي)",
+        "page-gibsonBoard": "اسقف معلقة (جبس بورد )",
+        "page-DehanatWbla6": "دهانات - بلاط - سراميك - رخام",
+        "page-T2meenBab": "تأمين (باب و شباك)",
+        "page-SlamatMoake3": "سلامة مواقع و تأمين طرق",
+        "page-Mtb5W7mam": "قسم مطبخ وحمام"
+        
+    },
+    "welcomeBanner": {
+        "welcomeTitle": "مرحبا بك في مورد"
+    },
+    "changeWords": {
+        "title": " مورد هي شركة متخصصة في المجال الهندسي، تقدم مجموعة متنوعة من الخدمات، منها",
+        "word1": "المقاولين ( بيانات و خدمات)",
+        "word2": "المكاتب الهنداسية والتراخيص (بيانات وخدمات المكاتب)",
+        "word3": "منتجات شراء وبيع",
+        "word4": "تأسيس شركات",
+        "word5": "مجال التوظيف",
+        "word6": "خدمات ادارية للشركة",
+        "word7": "بيانات المشاريع الجارية والمستقبلية"
+    },
+    "ourServices": {
+        "ourServies": "خدماتنا"
+    }
+}
